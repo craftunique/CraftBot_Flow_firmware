@@ -1,4 +1,8 @@
-# CraftBot_Flow_firmware
-Pr3dator  V1.1.23099
-CraftGui  V1.1.2479
-FlowAdmin V0.5.11
+2020.01.28 CraftFlow
+
+Pr3dator  v1.1.23388
+CraftGui  V1.1.3286
+FlowAdmin V0.6.7
+
+
+
