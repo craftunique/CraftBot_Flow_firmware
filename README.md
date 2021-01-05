@@ -1,7 +1,7 @@
-2020.07.24 CraftFlow
+2020.09.17 CraftFlow
 
-Pr3dator  v1.1.24329
-CraftGui  v1.1.6619
+Pr3dator  v1.1.24338
+CraftGui  v1.1.6622
 FlowAdmin V0.8.9
 
 Firmware:
