@@ -1,3 +1,16 @@
+2021.08.13 CraftFlow
+
+Pr3dator  v1.1.25799
+CraftGui  v1.2.8512
+FlowAdmin V0.8.19
+
+Firmware: - !!!! Recalibration required !!!!
+Fix:   Motor driver false error indication fixed
+Fix:   Static ip settings fixed
+Fix:   Minor bugs
+
+
+################################################################################
 2021.03.17 CraftFlow
 
 Pr3dator  v1.1.25642
@@ -35,6 +48,7 @@ Added: Added another file browser to the top of file manager list
 Added: Redirect to dashboard after successful print start
 Added: Kick to login screen if session timed out
 Fix:   Small fixes and improvements
+
 
 ################################################################################
 2020.09.17 CraftFlow
@@ -103,7 +117,6 @@ Fix:   Minor bugs
 
 FlowAdmin:
 Fix:   Minor bugs
-
 
 
 ################################################################################
