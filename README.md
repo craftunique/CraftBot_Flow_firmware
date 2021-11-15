@@ -1,3 +1,34 @@
+2021.11.08 CraftFlow
+
+Pr3dator  v1.1.25838
+CraftGui  v1.2.8522
+FlowAdmin V0.9.13
+
+Firmware: - !!!! Recalibration required !!!!
+Added:   Online support
+Added:   WiFi password with space
+Added:   Romanian language
+Added:   Bed heat balance waiting
+Fix:     Extruded length calculation
+Fix:     Mesh Bed 1st layer
+Fix:     Online update 
+Fix:     Flash drive mount
+Fix:     RGB logo usage
+Fix:     Minor bugs
+
+Flowadmin:
+Added:   Remote web access
+Added:   Cloud file storage access
+Added:   code viewer
+Added:   Upload print history to craftbot.com account
+Added:   Custom sounds for events
+Added:   Export and import printer settings
+Added:   Firmware update check
+Fix:     Redesign
+Fix:     Minor bugfixes
+
+
+################################################################################ 
 2021.08.13 CraftFlow
 
 Pr3dator  v1.1.25799
@@ -157,3 +188,22 @@ Fix:   Typo fixes
 
 Other UI fixes have been made.
 After updating, recalibration is required due to changes!!!
+"" 
+"" 
+"" 
+"" 
+"" 
+"" 
+"" 
+"" 
+"" 
+"" 
+"" 
+"" 
+"" 
+"" 
+"" 
+"" 
+"" 
+"" 
+"" 
