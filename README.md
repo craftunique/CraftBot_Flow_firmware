@@ -1,3 +1,29 @@
+2022.02.16 CraftFlow
+
+Pr3dator  v1.1.25996
+CraftGui  v1.2.8527
+FlowAdmin V0.9.25
+
+Firmware: 
+Added:   Dome detect
+Added:   Maintenance instructions
+Fix:     Elimination of printed object height error when z-hop is applied
+Fix:     Minor bugfixes
+
+Flowadmin:
+Added:   Better error handling
+Added:   Fixed multiple unhandled error that may cause system crash from time-to-time (File manager, Storage size check, Pendrive size check)
+Added:   Option to delete and remove saved Cloud storage access
+Added:   Network connection checker and feedback display
+Added:   More mobile friendly file list
+Added:   Minor performance improvement
+Fix:     Jogging click error
+Fix:     Profile save/export error
+Fix:     Pendrive check on cloud file manager pages
+Fix:     Potential custom sound upload errors
+Fix:     Custom sound preview playback in settings menu dropdown
+
+################################################################################ 
 2021.11.08 CraftFlow
 
 Pr3dator  v1.1.25838
@@ -188,22 +214,3 @@ Fix:   Typo fixes
 
 Other UI fixes have been made.
 After updating, recalibration is required due to changes!!!
-"" 
-"" 
-"" 
-"" 
-"" 
-"" 
-"" 
-"" 
-"" 
-"" 
-"" 
-"" 
-"" 
-"" 
-"" 
-"" 
-"" 
-"" 
-"" 
