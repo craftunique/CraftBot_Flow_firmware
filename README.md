@@ -1,3 +1,34 @@
+2022.05.27 CraftFlow
+
+Pr3dator  v1.1.26208
+CraftGui  v1.2.8530
+FlowAdmin V0.9.32
+
+Firmware:
+Added: Wiper usage after first G28
+Added: Temperature sensor measurement instability checking and warning. 
+Fix:   Minor bugfixes
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+
+################################################################################ 
 2022.02.16 CraftFlow
 
 Pr3dator  v1.1.25996
@@ -22,8 +53,7 @@ Fix:     Profile save/export error
 Fix:     Pendrive check on cloud file manager pages
 Fix:     Potential custom sound upload errors
 Fix:     Custom sound preview playback in settings menu dropdown
-                                                                                                                              
-                                                                                                                              
+
 ################################################################################ 
 2021.11.08 CraftFlow
 
