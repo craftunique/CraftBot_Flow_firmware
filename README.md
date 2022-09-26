@@ -1,12 +1,11 @@
-2022.05.27 CraftFlow
+2022.09.12 CraftFlow
 
-Pr3dator  v1.1.26208
-CraftGui  v1.2.8530
-FlowAdmin V0.9.32
+Pr3dator  v1.1.26376
+CraftGui  v1.2.8531
+FlowAdmin V0.9.41
 
 Firmware:
-Added: Wiper usage after first G28
-Added: Temperature sensor measurement instability checking and warning. 
+Added: xy motion speed has increased under calibration
 Fix:   Minor bugfixes
                                                                                                                      
                                                                                                                      
@@ -27,6 +26,17 @@ Fix:   Minor bugfixes
                                                                                                                      
                                                                                                                      
                                                                                                                      
+################################################################################ 
+2022.05.27 CraftFlow
+
+Pr3dator  v1.1.26208
+CraftGui  v1.2.8530
+FlowAdmin V0.9.32
+
+Firmware:
+Added: Wiper usage after first G28
+Added: Temperature sensor measurement instability checking and warning. 
+Fix:   Minor bugfixes
 
 ################################################################################ 
 2022.02.16 CraftFlow
