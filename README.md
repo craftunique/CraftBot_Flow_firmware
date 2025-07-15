@@ -1,3 +1,31 @@
+
+
+2025.07.1 CraftFlow
+
+Pr3dator  v1.1.32738
+CraftGui  v1.2.8537
+FlowAdmin V0.9.51
+
+Firmware: FAN PWM fix, Acceleration fix, Bed mesh fix, load unload fix
+Added: OrcaSLicer support
+############################################
+
+
+2025.05.08 CraftFlow
+
+Pr3dator  v1.1.26482
+CraftGui  v1.2.8531
+FlowAdmin V0.9.41
+
+Firmware: FAN PWM fix
+Added: 
+Fix:   
+                               
+
+############################################
+
+
+
 2022.09.12 CraftFlow
 
 Pr3dator  v1.1.26376
