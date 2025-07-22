@@ -1,3 +1,9 @@
+2025.07.22
+Pr3dator  v1.1.3243
+CraftGui  v1.2.8537
+FlowAdmin V0.9.51
+
+Firmware: Fix update problem, Extruder Fan speed opt
 
 
 2025.07.1 CraftFlow
